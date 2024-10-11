@@ -200,3 +200,5 @@ We’re no longer strangers,
 We’re building something whole,
 A place without borders,
 Where everyone feels whole.
+
+![](https://repository-images.githubusercontent.com/871206303/c176eedc-ceea-47ba-8b55-4e077a9b024a)
